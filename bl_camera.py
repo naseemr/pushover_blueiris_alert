@@ -5,6 +5,6 @@ r = requests.post("https://api.pushover.net/1/messages.json", data = {
   "message": "Security Camera"
 },
 files = {
-  "attachment": ("Front.jpg", open("C:\BlueIris\Alerts\Front.jpg", "rb"), "image/jpeg")
+  "attachment": ("Front.jpg", open("C:\BlueIris\Alerts\camera_name_in_bl.jpg", "rb"), "image/jpeg")
 })
 print(r.text)
