@@ -1,9 +1,9 @@
 # pushover_blueiris_alert with image
 
 Send BlueIris Alert image through pushover.
-Requirement:
+<br>Requirement:
 Python3, Blueiris
-Installation:
+<br>Installation:
 1. Save the python script and batch file in your PC
 2. change the blueIris config like below
 3. Camera settings:
